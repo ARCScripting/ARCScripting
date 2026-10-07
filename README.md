@@ -18,4 +18,5 @@ Python · Linux · Proxmox · Docker · Git · vLLM / NCCL · Discord API · ngi
 ## Find me
 
 - [GitHub](https://github.com/ARCScripting) — this profile
+- [LinkedIn](https://www.linkedin.com/in/allen-craig-05b10657/)
 - Projects and ramblings usually surface in a small tech Discord I run
